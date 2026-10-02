@@ -10,56 +10,15 @@
 
 **AuraX'26** is a comprehensive digital platform for technical college festivals, bringing event discovery, registration, personalized recommendations, schedules, participant networking, mentor support, preparation resources, and digital event passes together in one interactive experience.
 
-Instead of relying on separate platforms, posters, messages, and registration forms, AuraX'26 provides participants with a centralized digital experience throughout the entire festival journey.
-
 From discovering an event to registering, preparing, managing schedules, connecting with mentors, and accessing a digital festival pass, everything is organized within a single platform.
 
 ---
 
-## 🎯 Problem Statement
-
-Technical college festivals often involve multiple events, workshops, competitions, and activities, making it difficult for participants to manage everything efficiently.
-
-Common challenges include:
-
-- ❌ Finding relevant events among numerous activities
-- ❌ Managing multiple event registrations
-- ❌ Identifying schedule clashes
-- ❌ Keeping track of event venues and timings
-- ❌ Finding useful preparation resources
-- ❌ Getting timely mentor assistance
-- ❌ Connecting with other participants
-- ❌ Managing event information from multiple sources
-- ❌ Lack of a centralized digital festival experience
-
----
-
-## 💡 Our Solution
-
-AuraX'26 provides a **unified digital ecosystem for technical college festivals** that simplifies the complete participant journey.
-
-The platform enables participants to:
-
-✔ Discover events based on their interests  
-✔ Receive personalized event recommendations  
-✔ Register and manage events  
-✔ Bookmark interesting events  
-✔ Detect schedule clashes  
-✔ Track their personalized festival schedule  
-✔ Access preparation resources  
-✔ Connect with mentors  
-✔ Explore other participants  
-✔ Search festival FAQs  
-✔ Generate a digital festival pass  
-✔ Access event information from one platform  
-
----
-
-# 🔥 Key Features
+# 🔥 What AuraX'26 Does
 
 ## 🚀 Personalized Onboarding
 
-Participants begin with a simple onboarding experience that helps personalize their festival journey.
+Participants begin with a guided onboarding experience.
 
 Users can provide:
 
@@ -67,17 +26,17 @@ Users can provide:
 - College / Institution
 - Areas of interest
 
-Their interests can then be used to provide more relevant event recommendations.
+Their interests can be used to personalize event recommendations and their festival experience.
 
 ---
 
 ## 🎯 Smart Event Explorer
 
-A centralized event discovery experience allows participants to explore the complete festival lineup.
+Participants can explore the complete festival lineup through a centralized event discovery experience.
 
-Participants can:
+Features include:
 
-- Search for events
+- Search events
 - Filter events by category
 - View event descriptions
 - Check event timings
@@ -95,19 +54,17 @@ Participants can:
 
 ## ⚠️ Smart Schedule Clash Detection
 
-Participants may want to register for multiple events that happen at overlapping times.
+AuraX'26 checks registered events for overlapping schedules.
 
-AuraX'26 includes schedule clash detection to identify overlapping registered events and notify participants.
-
-This helps users organize their festival schedule and avoid missing important events.
+Participants are notified when multiple registered events have conflicting timings, helping them organize their festival schedule more effectively.
 
 ---
 
 ## 📅 Interactive Event Timeline
 
-The platform provides an interactive timeline for viewing the festival schedule.
+The platform provides an interactive visual timeline for the complete festival schedule.
 
-Participants can quickly understand:
+Participants can view:
 
 - Event start time
 - Event end time
@@ -116,15 +73,15 @@ Participants can quickly understand:
 - Event progress
 - Upcoming events
 
-Interactive event cards provide additional information when explored.
+Interactive event cards provide additional event information.
 
 ---
 
 ## 📊 Personalized Festival Dashboard
 
-The dashboard gives participants a centralized overview of their festival activities.
+The dashboard provides participants with a centralized overview of their festival activities.
 
-It can display:
+It includes:
 
 - 📋 Registered events
 - ⭐ Bookmarked events
@@ -158,7 +115,7 @@ Resources can be explored based on participant interests and event requirements.
 
 ## 🧑‍🏫 Mentor Support System
 
-AuraX'26 provides a mentor-support system to help participants get guidance during the festival.
+AuraX'26 provides a mentor-support system for participants who need guidance.
 
 Mentors can be categorized into domains such as:
 
@@ -184,7 +141,7 @@ Participants can:
 
 The platform includes a searchable FAQ section for common festival-related questions.
 
-Participants can quickly find information related to:
+Participants can find information related to:
 
 - Registration
 - Venues
@@ -199,7 +156,7 @@ Participants can quickly find information related to:
 
 ## 👥 Participant Networking
 
-AuraX'26 provides a participant discovery experience to encourage networking during technical festivals.
+AuraX'26 provides a participant discovery experience to encourage networking.
 
 Participant profiles can include:
 
@@ -211,8 +168,6 @@ Participant profiles can include:
 - Availability / online status
 
 Users can also create and customize their own participant profile.
-
-This helps participants discover people with similar technical interests and event preferences.
 
 ---
 
@@ -244,8 +199,6 @@ The countdown displays:
 - Minutes
 - Seconds
 
-This creates a dynamic and engaging festival experience even before the event begins.
-
 ---
 
 # ✨ User Experience
@@ -265,7 +218,7 @@ The interface focuses on:
 - 📱 Responsive layouts
 - 🎨 Strong visual hierarchy
 
-The overall design is intended to make the platform feel more like a **digital festival experience** rather than a conventional event website.
+The overall design is intended to make the platform feel like a **digital festival experience** rather than a conventional event website.
 
 ---
 
@@ -337,7 +290,7 @@ AuraX'26 follows a full-stack architecture where the frontend communicates with 
 
 # 🔌 Backend API
 
-The backend provides REST API routes for major platform functionality, including:
+The backend provides REST API routes for major platform functionality:
 
 ```text
 /api/users
@@ -638,10 +591,10 @@ For production deployment, the following should be configured securely:
 
 # 📌 Conclusion
 
-**AuraX'26** transforms the traditional technical college festival experience into a connected digital ecosystem.
+**AuraX'26** is a complete digital platform designed to make technical college festivals more interactive, organized, and engaging.
 
-Rather than functioning as a simple event information website, the platform supports participants throughout their complete festival journey — from discovering relevant events and registering for them to managing schedules, preparing with curated resources, connecting with mentors and participants, and accessing a personalized digital festival pass.
+It brings event discovery, registration, personalized recommendations, schedule management, preparation resources, mentor support, participant networking, FAQs, and digital festival passes together into one connected experience.
 
-By combining a modern frontend, scalable backend architecture, database integration, personalized experiences, and event-focused digital utilities, AuraX'26 demonstrates how technology can make technical college festivals more organized, interactive, and engaging.
+With its modern user interface, full-stack architecture, and participant-focused features, AuraX'26 provides a complete digital experience for managing and participating in technical festivals.
 
 ### ⚡ Innovation Ignites the Future.
